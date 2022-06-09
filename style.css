@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Josefin+Sans&family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #2c2c2c;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.header {
+    text-align: center;
+    background-color: #FDFD96;
+    height: 50px;
+}
+
+.header h1 {
+    color: black;
+}
+
+.wrap {
+    margin: auto;
+    width: 80%;
+    overflow: auto;
+    background-color: #2c2c2c;
+}
+
+.mainleft {
+    float: left;
+    width: 50%;
+    background-color: #2c2c2c;
+    height: 500px;
+    padding-top: 10px;
+}
+
+.mainright {
+    font-family: 'Inter', sans-serif;
+    float: right;
+    width: 50%;
+    background-color: #FDFD96;
+    height: 500px;
+    padding-top: 10px;
+}
+
+.mainright p {
+    color: black;
+}
+
+.review-container {
+    width: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #FDFD96;
+}
+
+.review-container p {
+    color: black;
+}
+
+.review {
+    background-color: white;
+    width: 95%;
+    margin: auto;
+    border: 5px solid black;
+    padding-left: 15px;
+}
