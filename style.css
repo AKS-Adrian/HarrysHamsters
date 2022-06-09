@@ -90,3 +90,15 @@ p {
     border: 5px solid black;
     padding-left: 15px;
 }
+
+.cast-container {
+    width: 100%;
+}
+
+.cast {
+    float: left;
+    height: 500px;
+    width: 23%;
+    background-color: rgb(99, 99, 99);
+    border: 5px solid black;
+}
